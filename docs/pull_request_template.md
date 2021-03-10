@@ -10,8 +10,8 @@
 
 #### Checklist
 - [ ] Unit tests
-- [ ] UI Test
-- [ ] Comment
+- [ ] UI Tests
+- [ ] Comments
 - [ ] Documentation
 
 #### Screenshots
